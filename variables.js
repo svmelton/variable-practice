@@ -4,3 +4,6 @@ var favoriteFood = "sushi";
 var petAge = 8;
 var myAge = 38;
 var currentYear = 2022;
+var isEnrolled = true;
+var isLoggedIn = true;
+var isSleepy = false;
